@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-patient-web-app/static/css/main.44f8b8b5.css",
+    "main.js": "/test-patient-web-app/static/js/main.bff20c8f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/test-patient-web-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/test-patient-web-app/index.html",
+    "main.44f8b8b5.css.map": "/test-patient-web-app/static/css/main.44f8b8b5.css.map",
+    "main.bff20c8f.js.map": "/test-patient-web-app/static/js/main.bff20c8f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/test-patient-web-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.bff20c8f.js"
+  ]
+}
